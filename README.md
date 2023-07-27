@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a semantic search app that I built with [`this tutorial:`](https://www.youtube.com/watch?v=6_mfYPPcZ60&list=WL&index=31)) 
+By following this tutorial I learned:
+- Create a website with NodeJs
+- Use langchain for GPT queries.
+- Use pinecone for creating indexes and storing them.
 
 ## Getting Started
 
